@@ -21,6 +21,10 @@ It demonstrates my understanding of image preprocessing, data augmentation, mode
 
 The dataset is organized into three splits:
 dataset/
+
+
+
+
 ├── train/ 
        ├── Normal/ 
        ├── Tuberculosis/ 
