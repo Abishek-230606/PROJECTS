@@ -20,17 +20,8 @@ It demonstrates my understanding of image preprocessing, data augmentation, mode
 ### 📁 Dataset Structure
 
 The dataset is organized into three splits:
-dataset/ 
-├── train/ │   
-├── Normal/ │   
-├── Tuberculosis/ │   
-└── Pneumonia/ ├── val/ │   
-├── Normal/ │  
-├── Tuberculosis/ │   
-└── Pneumonia/ ├── test/ │  
-├── Normal/ │  
-├── Tuberculosis/ 
-│└── Pneumonia/
+dataset/ ├── train/ │   ├── Normal/ │   ├── Tuberculosis/ │   └── Pneumonia/ ├── val/ │   ├── Normal/ │   ├── Tuberculosis/ │   └── Pneumonia/ ├── test/ │   ├── Normal/ │   ├── Tuberculosis/ │   └── Pneumonia/
+
 
 
 ---
@@ -71,15 +62,6 @@ dataset/
 3. Place your dataset in the `dataset/` folder as shown above  
 4. Run the notebook `Chest_Xray_CNN_Classifier.ipynb`
 
----
-
-### 📚 Future Work
-
-- Add Grad-CAM visualizations for explainability  
-- Experiment with transfer learning using pre-trained models  
-- Expand to other medical imaging tasks
-
----
 
 ### 🙋‍♂️ About Me
 
