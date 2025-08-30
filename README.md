@@ -30,17 +30,11 @@ dataset/
        ├── Tuberculosis/ 
        │── Pneumonia/
 
-
-
        
 ├── val/    
        ├── Normal/    
        ├── Tuberculosis/ 
        │─ Pneumonia/
-
-
-
-
        
 ├── test/    
         ├── Normal/   
