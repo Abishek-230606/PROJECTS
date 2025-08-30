@@ -20,7 +20,19 @@ It demonstrates my understanding of image preprocessing, data augmentation, mode
 ### 📁 Dataset Structure
 
 The dataset is organized into three splits:
-dataset/ ├── train/ │   ├── Normal/ │   ├── Tuberculosis/ │   └── Pneumonia/ ├── val/ │   ├── Normal/ │   ├── Tuberculosis/ │   └── Pneumonia/ ├── test/ │   ├── Normal/ │   ├── Tuberculosis/ │   └── Pneumonia/
+dataset/
+├── train/ 
+       ├── Normal/ 
+       ├── Tuberculosis/ 
+       │── Pneumonia/ 
+├── val/    
+       ├── Normal/    
+       ├── Tuberculosis/ 
+       │─ Pneumonia/
+├── test/    
+        ├── Normal/   
+        ├── Tuberculosis/ 
+        ├── Pneumonia/
 
 
 
@@ -73,5 +85,4 @@ I’m passionate about building real-world AI solutions and documenting my learn
 
 ### 📬 Contact
 
-Feel free to connect with me on Linkdin - 
-
+Feel free to connect with me on Linkdin - https://www.linkedin.com/in/abishek-js
