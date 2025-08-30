@@ -28,11 +28,20 @@ dataset/
 ├── train/ 
        ├── Normal/ 
        ├── Tuberculosis/ 
-       │── Pneumonia/ 
+       │── Pneumonia/
+
+
+
+       
 ├── val/    
        ├── Normal/    
        ├── Tuberculosis/ 
        │─ Pneumonia/
+
+
+
+
+       
 ├── test/    
         ├── Normal/   
         ├── Tuberculosis/ 
