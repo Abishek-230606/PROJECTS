@@ -36,13 +36,9 @@ The goal is to compare the performance of **Random Forest, SVM, and XGBoost** to
 
 ## 🚀 How to Run
 1. Clone this repository:
-   git clone https://github.com/username/project-name.git
-   cd project-name
-Install dependencies:
-
-
-
-pip install -r requirements.txt
+   git clone (https://github.com/Abishek-230606/CLUB-TASKS/tree/main/file%20classification)
+Install dependencies
+ install - numpy, sktlearn, pandas, matplotlib, xgboost.
 Open the Jupyter Notebook:
 
 
