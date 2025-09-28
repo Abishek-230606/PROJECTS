@@ -5,7 +5,7 @@ This space showcases my journey in AI and deep learning, starting with a CNN-bas
 
 ---
 
-## 📌 Project 1: Chest X-Ray Classification (Normal vs Tuberculosis vs Pneumonia)
+## 📌 Project : Chest X-Ray Classification (Normal vs Tuberculosis vs Pneumonia)
 
 ### 🔍 Overview
 This project uses a Convolutional Neural Network (CNN) to classify chest X-ray images into three categories:
