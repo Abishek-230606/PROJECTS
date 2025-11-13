@@ -14,6 +14,12 @@ This space showcases my journey in AI and deep learning, starting with a CNN-bas
 
 ## 📌 Project 3: File classification using numpy and pandas 
 
+---
+
+## 📌 Project 4: Movie recommendations system
+
+---
+
 ### 🙋‍♂️ About Me
 
 I’m Abishek JS,
