@@ -5,14 +5,14 @@ This space showcases my journey in AI and deep learning, starting with a CNN-bas
 
 ---
 
-## 📌 Project 1: Chest X-Ray Classification (Normal vs Tuberculosis vs Pneumonia)
+## 📌 Project 1: Chest X-Ray Classification(CNN MODEL) (Normal vs Tuberculosis vs Pneumonia)
 
 ---
-## 📌 Project 2 : Loan Classification model
+## 📌 Project 2: Loan Classification model
 
 --- 
 
-## 
+## 📌 Project 3: File classification using numpy and pandas 
 
 ### 🙋‍♂️ About Me
 
